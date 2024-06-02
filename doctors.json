@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Dr. RamaKrishna",
+        "specialization": "Cardiologist",
+        "location": "Hyderabad",
+        "availability": ["2024-06-03 10:00", "2024-06-03 14:00"]
+    },
+    {
+        "name": "Dr. Srivastav",
+        "specialization": "Dermatologist",
+        "location": "Hyderabad",
+        "availability": ["2024-06-03 11:00", "2024-06-03 15:00"]
+    },
+    {
+        "name": "Dr. Sunitha",
+        "specialization": "General Practitioner",
+        "location": "Hyderabad",
+        "availability": ["2024-06-04 09:00", "2024-06-04 13:00"]
+    },
+    {
+        "name": "Dr. Ajay Kumar",
+        "specialization": "Pediatrician",
+        "location": "Bangalore",
+        "availability": ["2024-06-05 10:00", "2024-06-05 14:00"]
+    },
+    {
+        "name": "Dr. Priya Sharma",
+        "specialization": "Ophthalmologist",
+        "location": "Bangalore",
+        "availability": ["2024-06-06 11:00", "2024-06-06 15:00"]
+    },
+    {
+        "name": "Dr. Anil Mehta",
+        "specialization": "Orthopedic Surgeon",
+        "location": "Mumbai",
+        "availability": ["2024-06-07 09:00", "2024-06-07 13:00"]
+    },
+    {
+        "name": "Dr. Ritu Verma",
+        "specialization": "Gynecologist",
+        "location": "Mumbai",
+        "availability": ["2024-06-08 10:00", "2024-06-08 14:00"]
+    },
+    {
+        "name": "Dr. Mohan Reddy",
+        "specialization": "ENT Specialist",
+        "location": "Chennai",
+        "availability": ["2024-06-09 11:00", "2024-06-09 15:00"]
+    },
+    {
+        "name": "Dr. Kavita Rao",
+        "specialization": "Dermatologist",
+        "location": "Chennai",
+        "availability": ["2024-06-10 09:00", "2024-06-10 13:00"]
+    },
+    {
+        "name": "Dr. Vikram Singh",
+        "specialization": "Neurologist",
+        "location": "Delhi",
+        "availability": ["2024-06-11 10:00", "2024-06-11 14:00"]
+    },
+    {
+        "name": "Dr. Alok Gupta",
+        "specialization": "Cardiologist",
+        "location": "Delhi",
+        "availability": ["2024-06-12 11:00", "2024-06-12 15:00"]
+    },
+    {
+        "name": "Dr. Shalini Das",
+        "specialization": "General Practitioner",
+        "location": "Kolkata",
+        "availability": ["2024-06-13 09:00", "2024-06-13 13:00"]
+    }
+]
